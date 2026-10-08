@@ -48,8 +48,7 @@
 | 项目                                                         | 说明                                                         | 技术         |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------ |
 | [**osint-monitoring-platform**](https://github.com/drusillawilson4341-beep/osint-monitoring-platform) | OSINT 监控平台：多源公告推送 / Telegram 对话桥接 / 工具供应与 MCP / MITM 漏洞日报 | Python       |
-| [**Hermes_scan**](https://github.com/drusillawilson4341-beep/Hermes_scan) | 每日扫描开源仓库，生成 CSV 报告总结各仓库功能                | Python       |
-| [**sentiment-vue-ai**](https://github.com/drusillawilson4341-beep/sentiment-vue-ai) | 解密影评 AI 差评分析：Vue 3 + FastAPI + DeepSeek + 飞书多维表格 | Vue / Python |
+| [**Hermes_scan**](https://github.com/drusillawilson4341-beep/Hermes_scan) | 每日扫描开源仓库，生成 CSV 报告总结各仓库功能                | 
 | [**knowledge-search**](https://github.com/drusillawilson4341-beep/knowledge-search) | 基于 Tavily API 的知识搜索与知识图谱，自动构建三层笔记 + Obsidian 集成 | JavaScript   |
 | [**openlibrary-scraper**](https://github.com/drusillawilson4341-beep/openlibrary-scraper) | 基于 Scrapling 的 OpenLibrary 数据爬取，多模式搜索、Cookie 持久化、Web 控制台 | Python       |
 | [**Hermes-SocialScraper**](https://github.com/drusillawilson4341-beep/Hermes-SocialScraper) | 社交数据采集工具                                             | —            |
